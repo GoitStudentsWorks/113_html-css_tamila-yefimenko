@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-05/",
+    "build": "vite build --base=/113_html-css_tamila-yefimenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
